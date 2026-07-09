@@ -33,7 +33,7 @@ os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 # -------------------------
 # Manual Location
 # -------------------------
-HTML_FILE = "data/samsung_manual.html"
+HTML_FILE = "How to use the various modes of the washing machine | Samsung LEVANT.html"
 
 if not os.path.exists(HTML_FILE):
     st.error(
