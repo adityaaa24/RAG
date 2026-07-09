@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+chromadb
+openai
+tiktoken
+unstructured
+beautifulsoup4
+lxml
+html5lib
+python-dotenv
+pydantic
